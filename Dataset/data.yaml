@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../val/images
+train: /Users/tb/Desktop/Robotics/cw/NoIdea/Dataset/train/images
+val: /Users/tb/Desktop/Robotics/cw/NoIdea/Dataset/val/images
 
 nc: 54
 names: [

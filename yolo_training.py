@@ -9,4 +9,3 @@ model.train(
     imgsz=640,
     plots=True
 )
-

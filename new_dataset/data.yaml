@@ -3,7 +3,7 @@ val: /Users/tb/Desktop/Robotics/cw/NoIdea/new_dataset/valid
 test: /Users/tb/Desktop/Robotics/cw/NoIdea/new_dataset/test
 
 nc: 54
-name: [
+names: [
     '0_blue', '1_blue', '2_blue', '3_blue', '4_blue', '5_blue', '6_blue', '7_blue', '8_blue', '9_blue',
     '0_green', '1_green', '2_green', '3_green', '4_green', '5_green', '6_green', '7_green', '8_green', '9_green',
     '0_red', '1_red', '2_red', '3_red', '4_red', '5_red', '6_red', '7_red', '8_red', '9_red',

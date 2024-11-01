@@ -1,6 +1,6 @@
-train: /Users/tb/Desktop/Robotics/cw/NoIdea/new_dataset/train
-val: /Users/tb/Desktop/Robotics/cw/NoIdea/new_dataset/valid
-test: /Users/tb/Desktop/Robotics/cw/NoIdea/new_dataset/test
+train: /Users/sneha/NoIdea/new_dataset/train
+val: /Users/sneha/NoIdea/new_dataset/valid
+test: /Users/sneha/NoIdea/new_dataset/test
 
 nc: 54
 names: [
